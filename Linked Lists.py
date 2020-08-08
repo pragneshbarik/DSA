@@ -88,16 +88,3 @@ class LinkedList :
         return count
     
     
-
-
-ll =LinkedList()
-
-ll.insert_first(1)
-ll.insert_first(2)
-ll.insert_first(1)
-ll.insert_first(2)
-ll.insert_first(23)
-ll.insert_last(43)
-ll.insert(1)
-#ll.pop(0)
-ll.show()
